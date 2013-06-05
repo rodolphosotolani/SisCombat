@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Combat Paintball</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cliente_consultar">Consultar Clientes</string>
+    <string name="title_activity_cliente_manter">Cadastrar/Editar Cliente</string>
+    <string name="title_activity_menu_principal">Menu Principal</string>
+    <string name="txtLabelCliente">Clientes</string>
+    <string name="txtLabelAgenda">Agenda</string>
+    <string name="txtLabelJogo">Jogos</string>
+    <string name="txtLabelConfiguracoes">Configurações</string>
+    <string name="edTxtBuscarCliente">Buscar Cliente</string>
+    <string name="txtNomeCliente">Nome:</string>
+    <string name="edTxtNomeManterCliente">Nome do Cliente</string>
+    <string name="txtSobrenomeCliente">Sobrenome:</string>
+    <string name="edTxtSobrenomeManterCliente">Sobrenome do Cliente</string>
+    <string name="txtTelefoneCliente">Telefone:</string>
+    <string name="edTxtTelefoneManterCliente">(XX) XXXX-XXXX</string>
+    <string name="txtEmailCliente">Email:</string>
+    <string name="edTxtEmailManterCliente">XXXXXXXXXX@YYYY.com.br</string>
+    <string name="title_activity_agenda_consultar">AgendaConsultar</string>
+    <string name="title_activity_jogos_consultar">JogosConsultar</string>
+    <string name="title_activity_configuracoes_consultar">ConfiguracoesConsultar</string>
+
+</resources>
